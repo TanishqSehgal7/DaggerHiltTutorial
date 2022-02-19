@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DaggerHiltTutorial</string>
+    <string name="myStringToBeProvided">This is a test string for Dagger Hilt Tutorial</string>
+</resources>
